@@ -1,0 +1,24 @@
+#chuck-says{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.form-select{
+    margin-right: 10px;
+}
+
+.form{
+    margin-left: 15%;
+    margin-right: 15%;
+    justify-content: center;
+}
+
+.btn-secondary{
+    margin-left: 15%;
+
+}
+
+img{
+    height: 85px;
+}
